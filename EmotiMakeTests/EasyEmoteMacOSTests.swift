@@ -1,8 +1,7 @@
 //
-//  EasyEmoteMacOSTests.swift
-//  EasyEmoteMacOSTests
+
 //
-//  Created by Jacky He on 2020-11-23.
+
 //
 
 import XCTest
